@@ -1,0 +1,14 @@
+.gradient-custom {
+/* fallback for old browsers */
+background: #65badf;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgb(85, 196, 230), rgba(37, 117, 252, 1));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgb(80, 165, 211), rgba(37, 117, 252, 1));
+}
+a:hover{
+    background-color: antiquewhite;
+    background: rgba(196, 245, 246, 0.244);
+}
